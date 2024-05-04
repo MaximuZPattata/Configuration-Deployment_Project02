@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\JsonFile">
+      <UniqueIdentifier>{9b349d8c-3061-4c48-96ae-481a89892967}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\XmlFile">
+      <UniqueIdentifier>{5fc2c836-5040-4fdd-a941-2ad30d20aa55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Vendor">
+      <UniqueIdentifier>{5420f74e-2fa0-4e70-80e0-02332b0cece5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="iConfigurationReaderWriter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cXmlConfigurationReaderWriter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cJsonConfigurationReaderWriter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cLibrary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Extern\pugixml\pugixml\pugixml.cpp">
+      <Filter>Vendor</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="iConfigurationReaderWriter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cXmlConfigurationReaderWriter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cJsonConfigurationReaderWriter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cLibrary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Config.json">
+      <Filter>Resource Files\JsonFile</Filter>
+    </None>
+    <None Include="UserPreferences.json">
+      <Filter>Resource Files\JsonFile</Filter>
+    </None>
+    <None Include="English.json">
+      <Filter>Resource Files\JsonFile</Filter>
+    </None>
+    <None Include="French.json">
+      <Filter>Resource Files\JsonFile</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="Config.xml">
+      <Filter>Resource Files\XmlFile</Filter>
+    </Xml>
+    <Xml Include="English.xml">
+      <Filter>Resource Files\XmlFile</Filter>
+    </Xml>
+    <Xml Include="French.xml">
+      <Filter>Resource Files\XmlFile</Filter>
+    </Xml>
+    <Xml Include="UserPreferences.xml">
+      <Filter>Resource Files\XmlFile</Filter>
+    </Xml>
+  </ItemGroup>
+</Project>

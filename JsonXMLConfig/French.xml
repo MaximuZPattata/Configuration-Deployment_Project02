@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Language>French</Language>
+	<Greeting>&lt;&lt; BIENVENUE UTILISATEUR ! VOUS AVEZ SELECTIONNE LA VERSION FRANCAISE &gt;&gt;</Greeting>
+	<PreferenceMessage>VOS PREFERENCES ACTUELLES SONT AFFICHEES CI-DESSOUS : </PreferenceMessage>
+	<ChangePreferences>[ POUR MODIFIER LA PREFERENCE ACTUELLE - ENTREZ 1, 2, 3 OU 4 POUR MODIFIER UNE PREFERENCE OU APPUYEZ SUR 'X' POUR QUITTER LA FENETRE ]</ChangePreferences>
+	<Preference_1>&gt;&gt; 1). LANGUE UTILISATEUR       : </Preference_1>
+	<Preference_2>&gt;&gt; 2). SURNOM DE L'UTILISATEUR  : </Preference_2>
+	<Preference_3>&gt;&gt; 3). ANIMAL PREFERE           : </Preference_3>
+	<Preference_4>&gt;&gt; 4). PERSONNALITE PREFEREE    : </Preference_4>
+	<WrongInput>MAUVAISE SAISIE !! ESSAYER A NOUVEAU</WrongInput>
+	<ExitProgram>VOUS AVEZ CHOISI DE QUITTER LE PROGRAMME</ExitProgram>
+	<OverwriteUserLanguage>[ VOUS AVEZ CHOISI DE CHANGER LA LANGUE EXISTANTE. CHOISISSEZ PARMI LES OPTIONS CI-DESSOUS : ]</OverwriteUserLanguage>
+	<OverwriteUserName>[ VOUS AVEZ CHOISI DE CHANGER LE NOM D'UTILISATEUR. ECRIVEZ LE NOUVEAU NOM D'UTILISATEUR CI-DESSOUS : ]</OverwriteUserName>
+	<OverwriteAnimal>[ VOUS AVEZ CHOISI DE CHANGER L'ANIMAL PREFERE. ECRIVEZ LE NOUVEL ANIMAL PREFERE CI-DESSOUS : ]</OverwriteAnimal>
+	<OverwritePersonality>[ VOUS AVEZ CHOISI DE CHANGER LA PERSONNALITE PREFEREE. ECRIVEZ LA NOUVELLE PERSONNALITE PREFEREE CI-DESSOUS : ]</OverwritePersonality>
+	<LanguageOption_1>--&gt;&gt; 1. English</LanguageOption_1>
+	<LanguageOption_2>--&gt;&gt; 2. Francais</LanguageOption_2>
+</LanguageData>

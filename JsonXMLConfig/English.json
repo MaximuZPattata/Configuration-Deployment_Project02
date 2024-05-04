@@ -1,0 +1,18 @@
+{
+  "Language": "English",
+  "Greeting": "<< WELCOME USER ! YOU HAVE SELECTED THE ENGLISH VERSION >>",
+  "PreferenceMessage": "YOUR CURRENT PREFERENCES ARE DISPLAYED BELOW : ",
+  "ChangePreferences": "[ TO CHANGE A PREFERENCE - ENTER 1, 2, 3 OR 4 | TO EXIT PROGRAM - ENTER 'X' ]",
+  "Preference_1": ">> 1). USER LANGUAGE        : ",
+  "Preference_2": ">> 2). USER NICKNAME        : ",
+  "Preference_3": ">> 3). FAVORITE ANIMAL      : ",
+  "Preference_4": ">> 4). FAVORITE PERSONALITY : ",
+  "WrongInput": "WRONG INPUT !! TRY AGAIN",
+  "ExitProgram": "<<---YOU HAVE CHOSEN TO EXIT THE PROGRAM--->>",
+  "OverwriteUserLanguage": "[ YOU HAVE CHOSEN TO CHANGE THE EXISTING LANGUAGE. CHOOSE FROM THE OPTIONS BELOW : ]",
+  "OverwriteUserName": "[ YOU HAVE CHOSEN TO CHANGE THE USERNAME. WRITE THE NEW USERNAME BELOW : ]",
+  "OverwriteAnimal": "[ YOU HAVE CHOSEN TO CHANGE THE FAVORITE ANIMAL. WRITE THE NEW FAVORITE ANIMAL BELOW : ]",
+  "OverwritePersonality": "[ YOU HAVE CHOSEN TO CHANGE THE FAVORITE PERSONALITY. WRITE THE NEW FAVORITE PERSONALITY BELOW : ]",
+  "LanguageOption_1": "---> 1. English",
+  "LanguageOption_2": "---> 2. French"
+}

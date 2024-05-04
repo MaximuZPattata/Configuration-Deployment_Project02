@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Language>English</Language>
+	<Greeting>&lt;&lt; WELCOME USER ! YOU HAVE SELECTED THE ENGLISH VERSION &gt;&gt;</Greeting>
+	<PreferenceMessage>YOUR CURRENT PREFERENCES ARE DISPLAYED BELOW : </PreferenceMessage>
+	<ChangePreferences>[ TO CHANGE A PREFERENCE - ENTER 1, 2, 3 OR 4 | TO EXIT PROGRAM - ENTER 'X' ]</ChangePreferences>
+	<Preference_1>&gt;&gt; 1). USER LANGUAGE        : </Preference_1>
+	<Preference_2>&gt;&gt; 2). USER NICKNAME        : </Preference_2>
+	<Preference_3>&gt;&gt; 3). FAVORITE ANIMAL      : </Preference_3>
+	<Preference_4>&gt;&gt; 4). FAVORITE PERSONALITY : </Preference_4>
+	<WrongInput>WRONG INPUT !! TRY AGAIN</WrongInput>
+	<ExitProgram>&lt;&lt;---YOU HAVE CHOSEN TO EXIT THE PROGRAM---&gt;&gt;</ExitProgram>
+	<OverwriteUserLanguage>[ YOU HAVE CHOSEN TO CHANGE THE EXISTING LANGUAGE. CHOOSE FROM THE OPTIONS BELOW : ]</OverwriteUserLanguage>
+	<OverwriteUserName>[ YOU HAVE CHOSEN TO CHANGE THE USERNAME. WRITE THE NEW USERNAME BELOW : ]</OverwriteUserName>
+	<OverwriteAnimal>[ YOU HAVE CHOSEN TO CHANGE THE FAVORITE ANIMAL. WRITE THE NEW FAVORITE ANIMAL BELOW : ]</OverwriteAnimal>
+	<OverwritePersonality>[ YOU HAVE CHOSEN TO CHANGE THE FAVORITE PERSONALITY. WRITE THE NEW FAVORITE PERSONALITY BELOW : ]</OverwritePersonality>
+	<LanguageOption_1>--&gt; 1. English</LanguageOption_1>
+	<LanguageOption_2>--&gt; 2. French</LanguageOption_2>
+</LanguageData>
